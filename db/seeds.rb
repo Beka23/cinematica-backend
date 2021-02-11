@@ -56,7 +56,7 @@ eat_it = Movie.create(name: "Just Eat It: A Food Waste Story", image: "https://s
 
 
 ###########REVIEWS############
-review1 = Review.create(user_id: bek.id, movie_id: bc_movie.id, content: "Very interesting movie!")
+
 
 
 
