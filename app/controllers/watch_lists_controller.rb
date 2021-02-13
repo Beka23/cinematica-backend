@@ -1,0 +1,2 @@
+class WatchLists < ApplicationController
+end
